@@ -5,13 +5,13 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6282319517960'] 
-global.mods = ['6282319517960'] 
-global.prems = ['6282319517960'] 
+global.owner = ['6289510402269'] 
+global.mods = ['6289510402269'] 
+global.prems = ['6289510402269'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ Atsair offcঔৣ꧂'
-global.numberowner = '6282319517960',
+global.numberowner = '6289510402269',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -29,7 +29,7 @@ global.gc = 'https://chat.whatsapp.com/DpcQ7SxAvAgJuFTZXCNpEP'
 global.web = 'https://youtube.com/channel/UC3VSUWzMu_tk61XIiH1GgYg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/muhammadatsair20'
 global.pulsa = '6283857757310'
-global.nomer = 'http://Wa.me//+6283857757310' //ganti jadi nomor mu
+global.nomer = 'http://Wa.me//+6289510402269' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 3.000\nMAKSIMAL 2 GRUP\n》2 BULAN 5.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 7.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
