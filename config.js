@@ -5,15 +5,15 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289510402269'] 
-global.mods = ['6289510402269'] 
-global.prems = ['6289510402269'] 
+global.owner = ['6285839012544'] 
+global.mods = ['6285839012544'] 
+global.prems = ['6285839012544'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Atsair offcঔৣ꧂'
-global.numberowner = '6289510402269',
+global.nameowner = 'Sandy Ofc'
+global.numberowner = '6285839012544',
 global.instagram = 'https://instagram.com/Jarotr_'
-global.github = 'https://github.com/Alpiii22'
+global.github = 'https://github.com/SandyGanz'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
