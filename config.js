@@ -19,16 +19,16 @@ global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '6283857757310'
-global.pulsa = '6283857757310'
-global.gopay = '6283857757310'
+global.dana = '6285839012544'
+global.pulsa = '6285839012544'
+global.gopay = '6285839012544'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Sandybotz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/DpcQ7SxAvAgJuFTZXCNpEP'
-global.web = 'https://youtube.com/channel/UC3VSUWzMu_tk61XIiH1GgYg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://www.tiktok.com/@sandyyy_89?_t=8VaB85UbOfR&_r=1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/muhammadatsair20'
-global.pulsa = '6283857757310'
+global.pulsa = '6285839012544'
 global.nomer = 'http://Wa.me//+6285839012544' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 3.000\nMAKSIMAL 2 GRUP\n》2 BULAN 5.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 7.000\nMAKSIMAL 2 GRUP'
 
